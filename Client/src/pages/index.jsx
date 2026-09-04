@@ -1,5 +1,5 @@
 export { default as Moviedetail} from './Moviedetail'
 export {default as Movielist} from './Movielist'
 export {default as Pagenotfound} from './Pagenotfound'
-export {default as Search} from './search'
+export {default as Search} from './Search'
 export {default as Chatbot} from './Chatbot'
