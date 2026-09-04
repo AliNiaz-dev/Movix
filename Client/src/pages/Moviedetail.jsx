@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom'
 import {useState, useEffect} from 'react'
 import backupImage from "../assets/backupImage.jpg"
 import { useNavigate } from "react-router-dom";
-import Chatbutton from '../components/chatbutton';
+import Chatbutton from '../components/Chatbutton';
 
 
 

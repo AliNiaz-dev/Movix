@@ -2,7 +2,7 @@ import React from 'react'
 import Card from "../components/Card";
 import useFetch from '../hooks/useFetch';
 import {useSearchParams} from 'react-router-dom';
-import Chatbutton from '../components/chatbutton';
+import Chatbutton from '../components/Chatbutton';
 
 const Search = ({api}) => {
   

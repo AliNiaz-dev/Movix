@@ -1,7 +1,7 @@
 import React from 'react'
 import Card from "../components/Card";
 import useFetch from '../hooks/useFetch';
-import Chatbutton from '../components/chatbutton';
+import Chatbutton from '../components/Chatbutton';
 
 const Movielist = ({ api }) => {
 
